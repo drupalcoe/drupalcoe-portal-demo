@@ -1,0 +1,22 @@
+name = Drupal Crunch
+description = This is a sub-theme of theme Best Responsive, made by Dinesh Waghmare for the web site Drupalcrunch.com.
+core = 7.x
+base theme = best_responsive
+
+regions[sidebar_first]  = First Sidebar
+regions[header]         = Header
+regions[preface_first]  = Preface First
+regions[preface_middle] = Preface Middle
+regions[preface_last]   = Preface Last
+regions[content_top]    = Content Top
+regions[content]        = Content
+regions[help]           = Help
+regions[footer]         = Footer
+regions[footer_first]   = First Bottom
+regions[footer_second]  = Second Bottom
+regions[footer_third]   = Third Bottom
+
+stylesheets[all][] = css/dc-pixel-logo.css
+stylesheets[all][] = css/style.css
+
+scripts[] = js/dc-pixel-logo.js

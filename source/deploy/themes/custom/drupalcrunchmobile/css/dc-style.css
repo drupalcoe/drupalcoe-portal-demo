@@ -1,0 +1,24 @@
+/*header*/
+#header {
+  position: relative;
+  /*background: #111 url("images/vintage.png");*/
+  margin-bottom: 30px;
+  background: #005a8f url("images/vintage.png");
+}
+
+/*logo*/
+#logo h1 a, #logo h2 a {
+  display: block;
+  /*float: left;*/
+  font-weight: 700;
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+  color: #fff;
+  /*padding: 40px 10px;*/
+  /*text-transform: uppercase;*/
+  letter-spacing: 1px;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
